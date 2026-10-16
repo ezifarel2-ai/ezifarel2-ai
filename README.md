@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: YENG
+name: FAREL EZI SAPUTRA
 role: Web Developer & Tech Explorer
 current_focus: Fullstack Web Development & Data Science Interfaces
 passions: Clean Code, Docker, Responsive Web Design, Open Source
