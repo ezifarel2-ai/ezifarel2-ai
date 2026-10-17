@@ -1,89 +1,92 @@
 <div align="center">
 
-  <!-- Header Banner Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,114,211,0,255,183&height=220&section=header&text=Hi%20There,%20I'm%20FAREL!%20👋&fontSize=40&fontAlignY=40&animation=fadeIn" width="100%"/>
+  <!-- Futuristic Cyberpunk / Neon Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,24,30,42&height=220&section=header&text=⚡%20FAREL%20EZI%20SAPUTRA%20⚡&fontSize=38&fontAlignY=42&desc=Fullstack%20Web%20Developer%20•%20Building%20Modern%20Digital%20Experiences&descSize=16&descAlignY=66" width="100%"/>
 
-  <!-- Typing SVG Animation -->
+  <!-- Animated Terminal Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Web+Developer+%26+Tech+Enthusiast;Building+Modern+Web+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=console.log(%22Hello%2C%20World!%20%F0%9F%91%8B%22)%3B;Fullstack+Web+%26+Backend+Developer;PHP+%E2%80%A2+JavaScript+%E2%80%A2+Python+%E2%80%A2+Docker;Crafting+Fast%2C+Clean%2C+and+Scalable+Web+Apps;Welcome+to+my+Digital+Workspace!+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
-  <br><br>
+  <br>
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=ezifarel2-ai&label=PROFILE+VIEWS&style=flat-square&color=blue" alt="Profile Views" />
+  <!-- Profile Visitors & Status -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ezifarel2-ai&label=VISITORS&style=flat-square&color=00f5ff" alt="Visitors" />
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDING-00F5FF?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/LOCATION-INDONESIA%20%F0%9F%87%AE%F0%9F%87%A9-purple?style=flat-square" alt="Location" />
+  </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🖥️ `$ whoami`
 
-```yaml
-Name: Farel Ezi Saputra
-Role: Web Developer
-Focus: Modern Web Development, Backend & Frontend
-Passions: Clean Architecture, Docker, APIs & Databases
-Location: Indonesia 🇮🇩
-Status: Open to collaborate on exciting projects 🚀
+```json
+{
+  "developer": "Farel Ezi Saputra",
+  "alias": "FAREL / YENG",
+  "role": "Fullstack Web Developer",
+  "core_competencies": [
+    "Fullstack Web Architecture",
+    "API & Database Integration",
+    "Docker Containerization",
+    "Modern Reactive Frontends"
+  ],
+  "mission": "Transforming complex logic into seamless, high-performance web applications.",
+  "current_status": "🟢 Open for high-impact projects & collaboration"
+}
 ```
-
-- 🔭 Sedang aktif mengembangkan aplikasi web menggunakan **PHP** dan **JavaScript**.
-- 🌐 Proyek yang sudah live: [project-webpro](https://project-webpro-swart.vercel.app) & [webprotugas](https://webprotugas.vercel.app).
-- ⚙️ Tertarik dengan otomatisasi deployment (**Vercel**), containerization (**Docker**), dan web design.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🚀 Tech Arsenal & Superpowers
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,python,html,css,tailwind,bootstrap,docker,git,github,vscode,vercel,mysql,postman&perline=7" />
+  </a>
+</p>
+
+---
+
+### 📈 Activity & Contribution Wave
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezifarel2-ai&theme=tokyo-night&area=true&hide_border=true" width="98%" alt="Activity Graph" />
+</p>
+
+---
+
+### 📊 GitHub Performance Matrix
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezifarel2-ai&show_icons=true&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezifarel2-ai&theme=tokyonight&hide_border=false" width="48%" alt="Most Used Languages" />
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ezifarel2-ai&theme=tokyonight&hide_border=false" width="97%" alt="Streak Stats" />
+</p>
+
+---
+
+### 🌟 Highlighted Works
 
 <div align="center">
 
-  <h4>Programming Languages</h4>
-  <p>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </p>
-
-  <h4>Tools & Platforms</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  </p>
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **[project-webpro](https://github.com/ezifarel2-ai/project-webpro)** | Full-featured web programming platform with containerized environment | `PHP` `Docker` `JS` `Vercel` | [🔗 Live Demo](https://project-webpro-swart.vercel.app) |
+| **[Frontend-datasince](https://github.com/ezifarel2-ai/Frontend-datasince)** | Interactive frontend interface for data science exploration | `JavaScript` `CSS3` `HTML5` | [📂 Code](https://github.com/ezifarel2-ai/Frontend-datasince) |
+| **[webprotugas](https://github.com/ezifarel2-ai/webprotugas)** | Web programming tasks & application deployment | `PHP` `HTML` `CSS` `Vercel` | [🔗 Live Demo](https://webprotugas.vercel.app) |
 
 </div>
 
 ---
 
-### 📊 GitHub Activity & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezifarel2-ai&show_icons=true&theme=tokyonight" alt="YENG's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezifarel2-ai&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ezifarel2-ai&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 📌 Featured Repositories
-
-| Repository | Tech Stack | Link |
-| :--- | :--- | :--- |
-| **[project-webpro](https://github.com/ezifarel2-ai/project-webpro)** | PHP, HTML, CSS, JavaScript, Docker | 🔗 [Demo Vercel](https://project-webpro-swart.vercel.app) |
-| **[Frontend-datasince](https://github.com/ezifarel2-ai/Frontend-datasince)** | JavaScript, CSS, HTML | 🔗 [View Code](https://github.com/ezifarel2-ai/Frontend-datasince) |
-| **[webprotugas](https://github.com/ezifarel2-ai/webprotugas)** | PHP, HTML, CSS | 🔗 [Demo Vercel](https://webprotugas.vercel.app) |
-
----
-
-### 📬 Connect with Me
+### 🌐 Let's Connect & Collaborate
 
 <div align="center">
 
@@ -108,6 +111,5 @@ Status: Open to collaborate on exciting projects 🚀
 <br>
 
 <div align="center">
-  <!-- Footer Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,114,211,0,255,183&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,24,30,42&height=90&section=footer" width="100%"/>
 </div>
