@@ -32,6 +32,18 @@ I focus on creating web platforms that deliver smooth experiences and reliable p
 
 ---
 
+### 🐍 Contribution Activity (Snake Eating Commits)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezifarel2-ai/ezifarel2-ai/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezifarel2-ai/ezifarel2-ai/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ezifarel2-ai/ezifarel2-ai/output/github-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
 ### Statistics
 
 <div align="center">
