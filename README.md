@@ -3,44 +3,57 @@
 <div align="center">
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FDD935&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer+%F0%9F%92%BB;Specializing+in+PHP%2C+JavaScript%2C+%26+Docker;Building+Fast%2C+Clean%2C+and+Responsive+Web+Apps;Welcome+to+my+GitHub+Workspace!+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FDD935&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer+%F0%9F%92%BB;PHP+%E2%80%A2+JavaScript+%E2%80%A2+Docker+%E2%80%A2+Python;Building+Fast%2C+Clean%2C+and+Responsive+Web+Apps;Welcome+to+my+GitHub+Workspace!+%E2%9C%A8" alt="Typing SVG" />
   </a>
+
+  <br><br>
+
+  <!-- Animated Developer Graphic -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding Animation" />
 </div>
 
 <br>
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <h3>👋 About Me</h3>
-      <p>I'm <b>Farel Ezi Saputra</b>, a web developer passionate about building clean, efficient, and user-friendly web applications. With a solid foundation in backend development using <b>PHP</b> and frontend technologies with <b>JavaScript</b>, <b>HTML5</b>, and <b>CSS3</b>, I enjoy solving real-world challenges through code.</p>
-      <p>I focus on creating web platforms that deliver smooth experiences and reliable performance, leveraging containerization with <b>Docker</b> and modern deployment workflows on <b>Vercel</b>.</p>
-      <p>
-        <a href="mailto:farelezisaputra@gmail.com"><img src="https://img.shields.io/badge/-farelezisaputra@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white" alt="Gmail" /></a>
-        <a href="https://wa.me/6281291144639"><img src="https://img.shields.io/badge/-081291144639-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-        <a href="https://instagram.com/frllezii"><img src="https://img.shields.io/badge/-@frllezii-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white" alt="Instagram" /></a>
-      </p>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=ezifarel2-ai&color=blue&label=Profile%20Views" alt="Profile Views" />
-        <img src="https://img.shields.io/github/followers/ezifarel2-ai?label=GitHub%20Followers" alt="Followers" />
-      </p>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Coding Animation" />
-    </td>
-  </tr>
-</table>
+### 👋 About Me
+
+I'm **Farel Ezi Saputra**, a web developer passionate about building clean, efficient, and user-friendly web applications. With a solid foundation in backend development using **PHP** and frontend technologies with **JavaScript**, **HTML5**, and **CSS3**, I enjoy solving real-world challenges through code.
+
+I focus on creating web platforms that deliver smooth experiences and reliable performance, leveraging containerization with **Docker** and modern deployment workflows on **Vercel**.
+
+<div align="center">
+  <a href="mailto:farelezisaputra@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-farelezisaputra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/6281291144639" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-081291144639-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/frllezii" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40frllezii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ezifarel2-ai" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ezifarel2--ai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
-### Core Tech Stacks
-![Core Tech](https://skillicons.dev/icons?i=php,js,html,css,docker)
+### 🛠️ Core Tech Stacks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,docker" alt="Core Tech" />
+</p>
 
-### Other Tech Stacks & Frameworks
-![Other Tech](https://skillicons.dev/icons?perline=8&i=python,bootstrap,tailwind,mysql,nodejs)
+### ⚡ Other Tech & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?perline=8&i=python,bootstrap,tailwind,mysql,nodejs" alt="Other Tech" />
+</p>
 
-### Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,vercel,postman)
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,postman" alt="Tools" />
+</p>
 
 ---
 
@@ -54,7 +67,7 @@
 
 ---
 
-### Statistics
+### 📊 Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ezifarel2-ai&theme=maroongold&show_icons=true" width="48%" alt="GitHub stats" />
