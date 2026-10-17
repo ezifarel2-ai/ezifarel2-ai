@@ -32,18 +32,6 @@ I focus on creating web platforms that deliver smooth experiences and reliable p
 
 ---
 
-### 🏙️ 3D Contribution Calendar
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-    <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Farel's 3D Contribution Graph" />
-  </picture>
-</div>
-
----
-
 ### Statistics
 
 <div align="center">
