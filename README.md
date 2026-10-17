@@ -51,15 +51,7 @@
 
 ---
 
-### 📈 Activity & Contribution Wave
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezifarel2-ai&theme=tokyo-night&area=true&hide_border=true" width="98%" alt="Activity Graph" />
-</p>
-
----
-
-### 📊 GitHub Performance Matrix
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ezifarel2-ai&show_icons=true&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Stats" />
@@ -68,6 +60,10 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ezifarel2-ai&theme=tokyonight&hide_border=false" width="97%" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="97%" alt="Daily Dev Quote" />
 </p>
 
 ---
