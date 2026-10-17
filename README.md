@@ -1,14 +1,35 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=160&text=Hi,%20I'm%20Farel%20Ezi%20Saputra&fontSize=46&fontColor=fdd935&fontAlignY=45&animation=twinkling&desc=Web%20Developer%20&descSize=26&descAlignY=82&section=header" width="100%" />
 
-I'm **Farel Ezi Saputra**, a web developer passionate about building clean, efficient, and user-friendly web applications. With a solid foundation in backend development using **PHP** and frontend technologies with **JavaScript**, **HTML5**, and **CSS3**, I enjoy solving real-world challenges through code.
+<div align="center">
+  <!-- Typing SVG Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FDD935&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer+%F0%9F%92%BB;Specializing+in+PHP%2C+JavaScript%2C+%26+Docker;Building+Fast%2C+Clean%2C+and+Responsive+Web+Apps;Welcome+to+my+GitHub+Workspace!+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</div>
 
-I focus on creating web platforms that deliver smooth experiences and reliable performance, leveraging containerization with **Docker** and modern deployment workflows on **Vercel**. Always eager to learn new technologies, explore best practices, and collaborate on exciting projects.
+<br>
 
-[![Mail Badge](https://img.shields.io/badge/-farelezisaputra@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:farelezisaputra@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/-081291144639-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white)](https://wa.me/6281291144639)
-[![Instagram Badge](https://img.shields.io/badge/-@frllezii-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/frllezii)
-[![](https://komarev.com/ghpvc/?username=ezifarel2-ai&color=blue&label=Profile%20Views)](https://github.com/ezifarel2-ai/ezifarel2-ai)
-[![](https://img.shields.io/github/followers/ezifarel2-ai?label=GitHub%20Followers)](https://github.com/ezifarel2-ai)
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h3>👋 About Me</h3>
+      <p>I'm <b>Farel Ezi Saputra</b>, a web developer passionate about building clean, efficient, and user-friendly web applications. With a solid foundation in backend development using <b>PHP</b> and frontend technologies with <b>JavaScript</b>, <b>HTML5</b>, and <b>CSS3</b>, I enjoy solving real-world challenges through code.</p>
+      <p>I focus on creating web platforms that deliver smooth experiences and reliable performance, leveraging containerization with <b>Docker</b> and modern deployment workflows on <b>Vercel</b>.</p>
+      <p>
+        <a href="mailto:farelezisaputra@gmail.com"><img src="https://img.shields.io/badge/-farelezisaputra@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white" alt="Gmail" /></a>
+        <a href="https://wa.me/6281291144639"><img src="https://img.shields.io/badge/-081291144639-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+        <a href="https://instagram.com/frllezii"><img src="https://img.shields.io/badge/-@frllezii-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white" alt="Instagram" /></a>
+      </p>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=ezifarel2-ai&color=blue&label=Profile%20Views" alt="Profile Views" />
+        <img src="https://img.shields.io/github/followers/ezifarel2-ai?label=GitHub%20Followers" alt="Followers" />
+      </p>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
